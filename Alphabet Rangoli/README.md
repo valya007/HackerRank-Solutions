@@ -6,7 +6,9 @@ Different sizes of alphabet rangoli are shown below:
 ----c----
 --c-b-c--
 c-b-a-b-c
+
 --c-b-c--
+
 ----c----
 
 #size 5
